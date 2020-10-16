@@ -235,7 +235,7 @@ class FourthViewController: UIViewController {
 서로 함수에 의존해서 데이터를 전달하는 방식이기 때문에 결국 뷰컨에 뷰컨이 이어지고.. 스파게티 코드가 초래 가능합니다<br>
 (이렇게 되면 나중에 유지 보수 할 때 알 수 없는 늪에 빠지게 됩니다 ㅠ_ㅠ....)
 
-
+---
 ### 4. Delegation을 이용해서 데이터 받기
 
 아까 이전 프로퍼티/함수 형태의 단점을 보완하기 위해서 사용하는 형태가 Delegation 입니다!!
@@ -248,17 +248,14 @@ Delegation을 사용하면 아까 3번과 달리 두개의 클래스가 연관�
 (출처 :zeddios 블로그)
 
 
-(전달받는 뷰컨)
+(전달받는 뷰컨) <br>
 <img width="655" alt="스크린샷 2020-10-16 오후 10 06 39" src="https://user-images.githubusercontent.com/60260284/96261814-e0f08880-0ffb-11eb-94d9-e11ad94d3985.png">
 
 
 
-(전달하는 뷰컨)
+(전달하는 뷰컨) <br>
 <img width="659" alt="스크린샷 2020-10-16 오후 10 09 46" src="https://user-images.githubusercontent.com/60260284/96262103-4f354b00-0ffc-11eb-981c-ebd38e7360fd.png">
 
-
-(전달하는 뷰컨)
-<img width="658" alt="스크린샷 2020-10-16 오후 10 10 22" src="https://user-images.githubusercontent.com/60260284/96262172-65430b80-0ffc-11eb-807e-2e52f4383d00.png">
 
 
 전달하는 뷰컨에서는 Myprotocol 이라는 프로토콜을 생성해두고, 함수를 정의하기만 하고
