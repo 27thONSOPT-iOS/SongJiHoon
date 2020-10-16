@@ -237,7 +237,7 @@ NotificationCenter 에다가 dataReceived 라는 신호 이름을 가지고, per
 
 
 그 다음 이제 홈 화면을 보면은
-우선 전체코드 부터,,
+우선 전체코드 부터,, (죄송해여,, 정리 안해놔서 좀 보기 더럽습니다 흑흑 ㅠㅡㅠ)
 
 ```Swift
 import UIKit
