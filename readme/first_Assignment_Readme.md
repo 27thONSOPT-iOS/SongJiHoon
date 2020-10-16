@@ -352,3 +352,7 @@ settingLabel 함수가 실행되면, 해당 noti를 [String] 형태로 타입을
 
 이 방법 말고도 위에 설명한 3가지 방법이 더 있는데요!
 다음에 설명하겠습니다 ^_^
+
++ [자세한 설명은 여기에...](https://i-colours-u.tistory.com/6)
+
+
