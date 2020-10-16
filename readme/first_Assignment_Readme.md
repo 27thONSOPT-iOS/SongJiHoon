@@ -2,7 +2,7 @@
 
 
 <img src="https://user-images.githubusercontent.com/60260284/96102574-a3173580-0f11-11eb-9a21-cf523665527a.png" >
-
+[파일로 이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EA%B3%BC%EC%A0%9C/firstWeek_Assignment)
 
 
 ### 목표 : present,push,pop을 이용해 화면전환 및 데이터 전달하기
