@@ -32,7 +32,7 @@
 present로 모달을 띄우는 방식은, 보통 앱 UI를 설계할 때,
 현재 보고있는 내용에서 새로운 내용을 깊이가 깊지 않은 방식으로 보여줄 때 사용하는 방식입니다.
 
-나중에 앱을 설계할 때, modal로 처리할지 push 로 처리할지는 사용자 입장에서도 중요한 요소이기 때문에 여러 앱을 보면서 생각을 해보는 것도 좋은 방법입니당
+나중에 앱을 설계할 때, modal로 처리할지 push 로 처리할지는 사용자 입장에서도 중요한 요소이기 때문에 여러 앱을 보면서 생각을 해보는 것도 좋은 방법입니다!!
 
 
 (전체코드)
@@ -60,7 +60,7 @@ guard let loginVC = self.storyboard?.instantiateViewController(identifier: "logi
 
 <img width="705" alt="스크린샷 2020-10-16 오전 11 37 34" src="https://user-images.githubusercontent.com/60260284/96206501-ff2a9a00-0fa3-11eb-9eea-2c661d922b7a.png">
 
-현재 스토리 보드 구성은 다음과 같습니당
+현재 스토리 보드 구성은 다음과 같습니다.
 메인에서 로그인하기 버튼을 누르면 
 
 <img width="725" alt="스크린샷 2020-10-16 오전 11 38 19" src="https://user-images.githubusercontent.com/60260284/96206538-19fd0e80-0fa4-11eb-9cac-8e5cf3628545.png">
@@ -133,7 +133,7 @@ dismiss 하면서 데이터를 전달해야하는 방법입니다.
         
         self.navigationController?.pushViewController(signupVC, animated: true)
 ```
-이런식으로 직접 프로퍼티에 접근해서 데이터를 전달하는 방식은 push 나 present 경우에만 가능합니다. 새로운 뷰컨트롤러를 할당해서 전달하는 것은 가능하지만
+이런식으로 직접 프로퍼티에 접근해서 데이터를 전달하는 방식은 push 나 present 경우에만 가능합니다. 새로운 뷰컨트롤러를 할당해서 전달하는 것은 가능하지만,
 dismiss 나 pop 같은 경우에는 이미 생성된 뷰컨 위, 혹은 stack 에다가 쌓아두고 새로운 뷰컨을 올리는 방식이라 위 내용과 같은 방식으로는 데이터 전달이 불가능합니다
 
 방법은 총 4가지가 있는데
@@ -143,7 +143,7 @@ dismiss 나 pop 같은 경우에는 이미 생성된 뷰컨 위, 혹은 stack �
 3. Closure 활용하기
 4. NotificationCenter 활용하기
 
-우선은 NotificationCenter를 활용하는 방법을 이번 과제에서는 사용해보도록 하겠습니당
+우선은 NotificationCenter를 활용하는 방법을 이번 과제에서는 사용해보도록 하겠습니다 ‼️
 나머지는 차차 설명할게요 ^^,,,
 
 NotificationCenter라는 것은 서로 연결되어있지 않은 뷰컨들 사이에서 신호를 전달하고 데이터를 전달할 때 주로 사용하는 방법인데,
@@ -237,7 +237,7 @@ NotificationCenter 에다가 dataReceived 라는 신호 이름을 가지고, per
 
 
 그 다음 이제 홈 화면을 보면은
-우선 전체코드 부터,, (죄송해여,, 정리 안해놔서 좀 보기 더럽습니다 흑흑 ㅠㅡㅠ)
+우선 전체코드 부터,,, (따로 정리하지는 않은거라 가독성은 떨어 질 수 있습니다 ^_^)
 
 ```Swift
 import UIKit
