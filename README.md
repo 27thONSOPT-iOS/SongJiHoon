@@ -26,5 +26,5 @@
  
 |   분류 |    내용   |   기한  | 링크 |
 | ----  | ----     | ----   |  ---- | 
-|    세미나  |   view 화면 전환  |   | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/blob/master/readme/first_seminar_Readme.md) |
+|    세미나  |   view 화면 전환, 데이터 전달하기  |   | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/blob/master/readme/first_seminar_Readme.md) |
 |   과제  |    present,push,pop 해보기  |  ~20/10/16 | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/blob/master/readme/first_Assignment_Readme.md) | 
