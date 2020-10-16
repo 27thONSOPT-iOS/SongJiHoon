@@ -112,7 +112,7 @@ self.navigationController?.popViewController(animated: true)
 
 이미 스택에 뷰컨트롤러가 쌓인 상태이기 때문에, 새로운 뷰컨을 선언하는 것이 아닌 간단하게 pop으로 가능합니다!!
 
-
+--- 
 
 ### dismiss 하면서 데이터 전달하기
 
@@ -147,12 +147,14 @@ NotificationCenter라는 것은 서로 연결되어있지 않은 뷰컨들 사�
 받는 뷰컨에서는 미리 observer를 달아두어서 신호를 받을 수 있도록 대기하는 것이라고 생각하시면 됩니당
 
 (하나의 방송국 개념!!)
+<br>
 
 그래서 저는 이번 로그인 뷰컨에서 데이터를 post 하고,
-메인에서 observer를 달아둬서 데이터를 전달하는 방법을 사용했습니다
+메인에서 observer를 달아둬서 데이터를 전달하는 방법을 사용했습니다 
+<br>
 
 
-(로그인뷰 전체코드)
+(로그인뷰 전체코드) 
 
 ```Swift
 import UIKit
