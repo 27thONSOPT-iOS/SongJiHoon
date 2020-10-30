@@ -51,4 +51,4 @@
 |   분류 |    내용   |   기한  | 링크 |
 | ----  | ----     | ----   |  ---- | 
 |    세미나  |   AutoLayout, StackView, ScrollView  |   |  |
-|   과제  |   Zeplin 활용, StackView, ScrollDelegate   |  ~20/10/30 |  | 
+|   과제  |   Zeplin 활용, StackView, ScrollDelegate   |  ~20/10/30 | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/blob/master/readme/second_Assignment_Readme.md) | 
