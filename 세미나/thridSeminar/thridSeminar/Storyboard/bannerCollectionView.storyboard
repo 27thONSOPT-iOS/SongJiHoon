@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17156" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="NAX-VA-l9X">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17126"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="collection view cell content view" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--Banner Collection View Controller-->
+        <scene sceneID="i8s-GF-gbq">
+            <objects>
+                <viewController id="NAX-VA-l9X" customClass="bannerCollectionViewController" customModule="thridSeminar" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="RWK-j9-f5H">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="db3-Ya-afk">
+                                <rect key="frame" x="0.0" y="64" width="414" height="250"/>
+                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="250" id="lBx-Lv-bC0"/>
+                                </constraints>
+                                <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="10" minimumInteritemSpacing="10" id="s6K-tV-a2L">
+                                    <size key="itemSize" width="409" height="251"/>
+                                    <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                                    <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                                    <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                                </collectionViewFlowLayout>
+                                <cells>
+                                    <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="bannerCell" id="bbl-wn-Wsj" customClass="bannerCollectionViewCell" customModule="thridSeminar" customModuleProvider="target">
+                                        <rect key="frame" x="0.0" y="-0.5" width="409" height="251"/>
+                                        <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                        <collectionViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" insetsLayoutMarginsFromSafeArea="NO" id="McX-Pl-nb3">
+                                            <rect key="frame" x="0.0" y="0.0" width="409" height="251"/>
+                                            <autoresizingMask key="autoresizingMask"/>
+                                            <subviews>
+                                                <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="Awe-iJ-vla">
+                                                    <rect key="frame" x="0.0" y="0.0" width="409" height="251"/>
+                                                </imageView>
+                                            </subviews>
+                                            <constraints>
+                                                <constraint firstItem="Awe-iJ-vla" firstAttribute="top" secondItem="McX-Pl-nb3" secondAttribute="top" id="Fkz-tD-FT0"/>
+                                                <constraint firstAttribute="bottom" secondItem="Awe-iJ-vla" secondAttribute="bottom" id="HFu-fR-PHw"/>
+                                                <constraint firstAttribute="trailing" secondItem="Awe-iJ-vla" secondAttribute="trailing" id="aE8-YJ-fYp"/>
+                                                <constraint firstItem="Awe-iJ-vla" firstAttribute="leading" secondItem="McX-Pl-nb3" secondAttribute="leading" id="cUG-7y-51C"/>
+                                            </constraints>
+                                        </collectionViewCellContentView>
+                                        <connections>
+                                            <outlet property="bannerImage" destination="Awe-iJ-vla" id="Hl5-hw-bq8"/>
+                                        </connections>
+                                    </collectionViewCell>
+                                </cells>
+                            </collectionView>
+                            <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="rsh-9g-DeG">
+                                <rect key="frame" x="145.5" y="276" width="123" height="28"/>
+                            </pageControl>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="VaF-eF-2N4"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="rsh-9g-DeG" firstAttribute="centerX" secondItem="RWK-j9-f5H" secondAttribute="centerX" id="2t3-XP-uGA"/>
+                            <constraint firstItem="rsh-9g-DeG" firstAttribute="bottom" secondItem="db3-Ya-afk" secondAttribute="bottom" constant="-10" id="QU4-Yt-BM3"/>
+                            <constraint firstItem="db3-Ya-afk" firstAttribute="leading" secondItem="VaF-eF-2N4" secondAttribute="leading" id="R4S-z4-s28"/>
+                            <constraint firstItem="db3-Ya-afk" firstAttribute="top" secondItem="VaF-eF-2N4" secondAttribute="top" constant="20" id="Veh-XF-eGb"/>
+                            <constraint firstItem="VaF-eF-2N4" firstAttribute="trailing" secondItem="db3-Ya-afk" secondAttribute="trailing" id="aCy-Xt-9Z9"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="bannerCollectionView" destination="db3-Ya-afk" id="iKY-AQ-CAp"/>
+                        <outlet property="pageController" destination="rsh-9g-DeG" id="tsm-Cg-5B1"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="NYM-ko-LkU" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="744.92753623188412" y="-139.28571428571428"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>
