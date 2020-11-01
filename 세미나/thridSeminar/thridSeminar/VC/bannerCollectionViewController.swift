@@ -7,9 +7,12 @@
 
 import UIKit
 
+
+
 class bannerCollectionViewController: UIViewController {
 
-    
+
+
     var bannerList : [bannerData] = []
     @IBOutlet weak var pageController: UIPageControl!
     @IBOutlet weak var bannerCollectionView: UICollectionView!
@@ -68,6 +71,7 @@ extension bannerCollectionViewController: UICollectionViewDataSource
         bannerCell.setImage(imageName: bannerList[indexPath.row].imageName)
         
         return bannerCell
+
         
     }
     
@@ -82,10 +86,12 @@ extension bannerCollectionViewController:UICollectionViewDelegateFlowLayout
     }
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout:
     UICollectionViewLayout, minimumLineSpacingForSectionAt section: Int) -> CGFloat {
+        
     return 0
+
     }
-    
-    
+
+
     func collectionView(_ collectionView: UICollectionView, layout collectionViewLayout:
     UICollectionViewLayout, minimumInteritemSpacingForSectionAt section: Int) -> CGFloat {
     return 0
