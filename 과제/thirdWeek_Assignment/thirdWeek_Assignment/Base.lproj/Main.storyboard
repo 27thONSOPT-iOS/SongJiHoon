@@ -54,7 +54,7 @@
                                 <rect key="frame" x="0.0" y="88" width="414" height="1412"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="6kg-rw-biZ">
-                                        <rect key="frame" x="0.0" y="0.0" width="414" height="1716.5"/>
+                                        <rect key="frame" x="0.0" y="0.0" width="414" height="1866.5"/>
                                         <subviews>
                                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="banner" translatesAutoresizingMaskIntoConstraints="NO" id="OfE-gN-SeK">
                                                 <rect key="frame" x="0.0" y="0.0" width="414" height="463.5"/>
@@ -100,11 +100,11 @@
                                                     <constraint firstItem="k6p-3M-Xbe" firstAttribute="leading" secondItem="ORm-Po-t8o" secondAttribute="leading" id="i3e-g5-zjP"/>
                                                 </constraints>
                                             </view>
-                                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="Ucp-x6-QGR">
-                                                <rect key="frame" x="24" y="504.5" width="366" height="1200"/>
+                                            <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" userInteractionEnabled="NO" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="prototypes" translatesAutoresizingMaskIntoConstraints="NO" id="Ucp-x6-QGR">
+                                                <rect key="frame" x="24" y="504.5" width="366" height="1350"/>
                                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                                                 <constraints>
-                                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="1200" id="0sH-db-S8c"/>
+                                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="1350" id="0sH-db-S8c"/>
                                                 </constraints>
                                                 <collectionViewFlowLayout key="collectionViewLayout" minimumLineSpacing="10" minimumInteritemSpacing="10" id="s0y-t4-xjf">
                                                     <size key="itemSize" width="230" height="457"/>
@@ -224,7 +224,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="81.159420289855078" y="109.82142857142857"/>
+            <point key="canvasLocation" x="-242" y="11"/>
         </scene>
     </scenes>
     <resources>

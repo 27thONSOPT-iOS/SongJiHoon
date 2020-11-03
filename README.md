@@ -50,5 +50,29 @@
  
 |   분류 |    내용   |   기한  | 링크 |
 | ----  | ----     | ----   |  ---- | 
-|    세미나  |   AutoLayout, StackView, ScrollView  |   |  |
+|    세미나  |   AutoLayout, StackView, ScrollView  |   | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/secondSeminar) |
 |   과제  |   Zeplin 활용, StackView, ScrollDelegate   |  ~20/10/30 | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/blob/master/readme/second_Assignment_Readme.md) | 
+
+
+
+
+### 3️⃣주차
+20.10.31 (토) - Zoom 온라인 (오프라인이 하고싶네여.. 또륵..)
+
+
+<table>
+
+  <tr>
+      <td><img src="https://user-images.githubusercontent.com/60260284/97891432-1f16d780-1d72-11eb-9acd-717187194081.png"></td>
+    <td><img src="https://user-images.githubusercontent.com/60260284/97891450-2342f500-1d72-11eb-9e2c-abd01142d6d3.png" ></td>
+
+
+  </tr>
+ </table>
+ 
+
+ 
+|   분류 |    내용   |   기한  | 링크 |
+| ----  | ----     | ----   |  ---- | 
+|    세미나  |   Delegate, TableView, CollectionView  |   | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/thridSeminar) |
+|   과제  |   CollectionView 활용해보기  |  ~20/11/6 | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/blob/master/readme/second_Assignment_Readme.md) | 
