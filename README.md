@@ -64,7 +64,7 @@
 
   <tr>
       <td><img src="https://user-images.githubusercontent.com/60260284/97891432-1f16d780-1d72-11eb-9acd-717187194081.png"></td>
-    <td><img src="https://user-images.githubusercontent.com/60260284/97891450-2342f500-1d72-11eb-9e2c-abd01142d6d3.png" ></td>
+    <td>![스크린샷 2020-11-03 오전 10 33 40](https://user-images.githubusercontent.com/60260284/97936801-0b925d80-1dc0-11eb-9b43-ec1ec609860e.png)</td>
 
 
   </tr>
@@ -75,4 +75,4 @@
 |   분류 |    내용   |   기한  | 링크 |
 | ----  | ----     | ----   |  ---- | 
 |    세미나  |   Delegate, TableView, CollectionView  |   | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/thridSeminar) |
-|   과제  |   CollectionView 활용해보기  |  ~20/11/6 | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/blob/master/readme/second_Assignment_Readme.md) | 
+|   과제  |   CollectionView 활용해보기  |  ~20/11/6 | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/blob/master/readme/third_Assignment_Readme.md) | 
