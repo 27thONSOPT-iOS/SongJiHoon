@@ -64,7 +64,7 @@
 
   <tr>
       <td><img src="https://user-images.githubusercontent.com/60260284/97891432-1f16d780-1d72-11eb-9acd-717187194081.png"></td>
-    <td>![스크린샷 2020-11-03 오전 10 33 40](https://user-images.githubusercontent.com/60260284/97936801-0b925d80-1dc0-11eb-9b43-ec1ec609860e.png)</td>
+
 
 
   </tr>
