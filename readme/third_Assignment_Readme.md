@@ -63,12 +63,12 @@ CollectionView에 하나의 셀만 올려서 작성을 해보도록 하겠습니
 
 다 맞게 세팅후, 실행했을 때, 올바르게 출력 되지 않는다면
 
-스토리보드 UICollectionView 인스펙터에서
-<img width="252" alt="스크린샷 2020-11-03 오전 1 40 54" src="https://user-images.githubusercontent.com/60260284/97894230-9ef27100-1d75-11eb-8a45-956b827c445e.png">
+스토리보드 UICollectionView 인스펙터에서 <br>
+<img width="252" alt="스크린샷 2020-11-03 오전 1 40 54" src="https://user-images.githubusercontent.com/60260284/97894230-9ef27100-1d75-11eb-8a45-956b827c445e.png"> <br>
 "estimate Size"에 대해서 none을 처리해주면 쉽게 레이아웃이 원하는대로 구성된 것을 볼 수 있습니다!
 
 
-
+<br><br>
 
 ## 스크롤 설정
 
