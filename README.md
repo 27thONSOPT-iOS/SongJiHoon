@@ -63,7 +63,7 @@
 <table>
 
   <tr>
-      <td><img src="https://user-images.githubusercontent.com/60260284/97891432-1f16d780-1d72-11eb-9acd-717187194081.png"></td>
+      <td><img width = 800 src="https://user-images.githubusercontent.com/60260284/97891432-1f16d780-1d72-11eb-9acd-717187194081.png"></td>
 
 
 
@@ -76,3 +76,28 @@
 | ----  | ----     | ----   |  ---- | 
 |    세미나  |   Delegate, TableView, CollectionView  |   | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/thridSeminar) |
 |   과제  |   CollectionView 활용해보기  |  ~20/11/6 | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/blob/master/readme/third_Assignment_Readme.md) | 
+
+
+
+
+### 4️⃣주차
+20.11.07 (토) - 구로디지털단지 서울스마트시티 센터( 구디 너무 멉니다..)
+
+
+
+<table>
+
+  <tr>
+      <td><img width = 800 src="https://user-images.githubusercontent.com/60260284/99137235-bcc0af80-266c-11eb-81e8-953fd6d507c7.png"></td>
+
+
+
+  </tr>
+ </table>
+ 
+
+ 
+|   분류 |    내용   |   기한  | 링크 |
+| ----  | ----     | ----   |  ---- | 
+|    세미나  |   TabBarController,Animation,Cocoapods  |   | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/fourthSeminar) |
+|   과제  |   탭바 활용해서 로그인 탭 만들기  |  ~20/11/6 | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/blob/master/readme/fourth_Assignment_Readme.md) | 
