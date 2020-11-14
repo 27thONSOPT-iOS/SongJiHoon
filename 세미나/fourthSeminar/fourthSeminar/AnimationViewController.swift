@@ -27,6 +27,7 @@ class AnimationViewController: UIViewController {
        
         let newposition = CGRect(x: 0, y: 200, width: 100, height: 100)
         
+        
         UIView.animate(withDuration: 3.0, animations:{
             
             self.circleImageView.frame = newposition
