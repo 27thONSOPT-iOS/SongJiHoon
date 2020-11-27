@@ -138,4 +138,4 @@
 |   분류 |    내용   |   기한  | 링크 |
 | ----  | ----     | ----   |  ---- | 
 |    세미나  |   Network, ResAPI, 로그인  |   | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/sixthSeminar) |
-|   과제  |   회원가입  |  ~20/11/15 | [리드미 나중에 쓸게여..](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/sixthSeminar) | 
+|   과제  |   회원가입  |  ~20/11/27 | [리드미 나중에 쓸게여..](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/sixthSeminar) | 
