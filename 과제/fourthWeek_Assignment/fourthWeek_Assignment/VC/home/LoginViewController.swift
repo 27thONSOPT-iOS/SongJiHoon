@@ -49,7 +49,11 @@ class LoginViewController: UIViewController {
         {
             let userData = userLoginData(name: self.nameTextField.text ?? "" , part: self.partNameTextField.text ?? "")
             
+            
+            
+            
             NotificationCenter.default.post(name: NSNotification.Name("getLoginData"),object: userData)
+            
             
             
             

@@ -10,6 +10,7 @@ import Foundation
 
 struct userData
 {
+    
     var name : String
     var imageName : String
     var description : String

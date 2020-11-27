@@ -27,7 +27,8 @@ class ViewController: UIViewController,UIScrollViewDelegate{
     @IBOutlet weak var headerViewTopConstraint: NSLayoutConstraint!
     // -88 ~ 0
     
-
+    @IBOutlet weak var collectionViewTopConstraint: NSLayoutConstraint!
+    
     //MARK:- Life Cycle Part
     override func viewDidLoad() {
         
@@ -70,6 +71,8 @@ class ViewController: UIViewController,UIScrollViewDelegate{
     }
     
     //MARK:- Function Part
+    
+    
     
     func scrollViewDidEndDecelerating(_ scrollView: UIScrollView) {
         print("멈춤")

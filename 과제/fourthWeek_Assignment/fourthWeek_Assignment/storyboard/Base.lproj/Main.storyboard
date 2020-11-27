@@ -218,7 +218,7 @@
                                         <rect key="frame" x="17" y="48" width="62" height="23"/>
                                     </imageView>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="XLk-cJ-aFj">
-                                        <rect key="frame" x="388.5" y="44" width="10.5" height="32"/>
+                                        <rect key="frame" x="267" y="44" width="132" height="32"/>
                                         <state key="normal" backgroundImage="profileBtn"/>
                                     </button>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="프로필 작성하기" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="oFB-Ut-jT0">
@@ -415,6 +415,7 @@
                     <tabBarItem key="tabBarItem" title="솝트실세" image="person.3.fill" catalog="system" selectedImage="person.3" id="VLQ-qt-5hb"/>
                     <size key="freeformSize" width="414" height="1500"/>
                     <connections>
+                        <outlet property="collectionViewTopConstraint" destination="0sH-db-S8c" id="ICk-St-hm8"/>
                         <outlet property="headerViewTopConstraint" destination="C8f-OH-2Ab" id="7Do-df-iZo"/>
                         <outlet property="mainScrollView" destination="0V6-kq-ise" id="y4S-Ad-Xz5"/>
                         <outlet property="userCollectionView" destination="Ucp-x6-QGR" id="4Mj-r1-lYC"/>
@@ -454,7 +455,7 @@
         <image name="juhyeok" width="150" height="150"/>
         <image name="person.3" catalog="system" width="128" height="62"/>
         <image name="person.3.fill" catalog="system" width="128" height="61"/>
-        <image name="profileBtn" width="10.5" height="32"/>
+        <image name="profileBtn" width="132" height="32"/>
         <image name="soptLogo" width="62" height="23"/>
         <systemColor name="secondaryLabelColor">
             <color red="0.23529411764705882" green="0.23529411764705882" blue="0.2627450980392157" alpha="0.59999999999999998" colorSpace="custom" customColorSpace="sRGB"/>
