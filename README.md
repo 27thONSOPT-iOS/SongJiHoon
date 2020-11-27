@@ -101,3 +101,41 @@
 | ----  | ----     | ----   |  ---- | 
 |    세미나  |   TabBarController,Animation,Cocoapods  |   | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/fourthSeminar) |
 |   과제  |   탭바 활용해서 로그인 탭 만들기  |  ~20/11/15 | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/blob/master/readme/fourth_Assignment_Readme.md) | 
+
+
+
+### 5️⃣주차
+20.11.14 (토) - 구로디지털단지 서울스마트시티 센터(또 구디네요...)
+
+![슬라이드1](https://user-images.githubusercontent.com/60260284/99152207-b0c40480-26e3-11eb-976b-3a245dc54a76.png)
+![슬라이드2](https://user-images.githubusercontent.com/60260284/99152210-b4f02200-26e3-11eb-903d-fa9bf3cf3435.png)
+ 
+|   분류 |    내용   |   기한  | 링크 |
+| ----  | ----     | ----   |  ---- | 
+|    세미나 및 과제  |   퍼블리 뉴스 리디자인 하기  | ~20.12.04  | [이동하기](https://github.com/Sopt-27th-HAPDONG-Seminar/Client-iOS) |
+
+
+
+
+
+### 6️⃣주차
+20.11.07 (토) - 온라인 + 이후 해커톤 진행 
+
+
+
+<table>
+
+  <tr>
+      <td><img width="800" alt="스크린샷 2020-11-27 오후 7 53 10" src="https://user-images.githubusercontent.com/60260284/100441658-2e2b4400-30ea-11eb-845f-59342a1952b3.png"></td>
+
+
+
+  </tr>
+ </table>
+ 
+
+ 
+|   분류 |    내용   |   기한  | 링크 |
+| ----  | ----     | ----   |  ---- | 
+|    세미나  |   Network, ResAPI, 로그인  |   | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/sixthSeminar) |
+|   과제  |   회원가입  |  ~20/11/15 | [리드미 나중에 쓸게여..](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/sixthSeminar) | 
