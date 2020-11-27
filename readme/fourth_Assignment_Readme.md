@@ -13,9 +13,9 @@
 
 1. 로그인 탭 <br>
 
-![로그인](https://user-images.githubusercontent.com/60260284/99137354-9fd8ac00-266d-11eb-8514-d1b578bccd85.gif)
+![로그인](https://user-images.githubusercontent.com/60260284/99137354-9fd8ac00-266d-11eb-8514-d1b578bccd85.gif) <br>
 2. 컬렉션 탭<br>
-![컬렉션뷰](https://user-images.githubusercontent.com/60260284/99137356-a109d900-266d-11eb-96cd-5f4043c54f8a.gif)
+![컬렉션뷰](https://user-images.githubusercontent.com/60260284/99137356-a109d900-266d-11eb-96cd-5f4043c54f8a.gif) <br>
 
 ---
 

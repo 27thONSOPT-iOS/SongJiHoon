@@ -100,4 +100,4 @@
 |   분류 |    내용   |   기한  | 링크 |
 | ----  | ----     | ----   |  ---- | 
 |    세미나  |   TabBarController,Animation,Cocoapods  |   | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/fourthSeminar) |
-|   과제  |   탭바 활용해서 로그인 탭 만들기  |  ~20/11/6 | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/blob/master/readme/fourth_Assignment_Readme.md) | 
+|   과제  |   탭바 활용해서 로그인 탭 만들기  |  ~20/11/15 | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/blob/master/readme/fourth_Assignment_Readme.md) | 
