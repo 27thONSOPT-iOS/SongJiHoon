@@ -119,7 +119,7 @@
 
 
 ### 6️⃣주차
-20.11.07 (토) - 온라인 + 이후 해커톤 진행 
+20.11.21 (토) - 온라인 + 이후 해커톤 진행 
 
 
 
@@ -139,3 +139,12 @@
 | ----  | ----     | ----   |  ---- | 
 |    세미나  |   Network, ResAPI, 로그인  |   | [이동하기](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/sixthSeminar) |
 |   과제  |   회원가입  |  ~20/11/27 | [리드미 나중에 쓸게여..](https://github.com/27thONSOPT-iOS/SongJiHoon/tree/master/%EC%84%B8%EB%AF%B8%EB%82%98/sixthSeminar) | 
+
+
+### 해커톤 
+
+<img width="800" alt="스크린샷 2020-11-27 오후 7 58 37" src="https://user-images.githubusercontent.com/60260284/100442170-f375db80-30ea-11eb-8a7b-0532d652132f.png">
+
+|   분류 |    내용   |   기한  | 링크 |
+| ----  | ----     | ----   |  ---- | 
+|    해커톤  |  국밥마라  |   | [이동하기](https://github.com/SOPT-27th-Hackathon-6th/Client-iOS) |
